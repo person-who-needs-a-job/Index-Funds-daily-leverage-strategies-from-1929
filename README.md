@@ -221,3 +221,6 @@ The bootstrap script reads **the four-file consolidated format directly**. You d
 ## Disclaimer
 
 This repository documents **historical, educational quantitative research**, not investment advice. Daily leveraged exposure can produce extreme losses, and synthetic historical returns depend on reconstruction choices, costs, simulated execution, and leverage assumptions. Past performance does not predict future results.
+
+## AI Assistance
+This project was developed with assistance from OpenAI Codex and ChatGPT.
